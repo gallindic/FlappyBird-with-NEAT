@@ -1,0 +1,9 @@
+window_title: 'FlappyBird Q-Learning'
+window_width: 420
+window_height: 720
+font_size: 20
+icon: 'assets/yellowbird-downflap.png'
+background: 'assets/background-day.png'
+fps: 120
+animation_time: 18
+pipes_interval: 1100
